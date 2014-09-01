@@ -17,4 +17,4 @@ Run:
 
 Example output:
 
-![](example.svg?raw=true)
+![](example.png?raw=true)
