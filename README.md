@@ -1,7 +1,7 @@
 visual-communities
 ==================
 
-Easy generation graphical representations of the movement of individuals between communities over time.
+Generates graphical representations of the movement of individuals between communities over time.
 
 Make:
 
